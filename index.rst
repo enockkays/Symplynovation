@@ -15,8 +15,8 @@ Enock Khondowe (201636110139)enockkhondowe94@yahoo.com
 
 01 May 2018, version 1.0
 
-1.1Introduction
-==================
+1.1 Introduction
+====================
 	
 This document describes the Little Hill Lab's initial requirements for an online application (Oh My Genes) which allows our scientists to upload gene expression files and quickly get differentially expressed genes.  
 
