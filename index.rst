@@ -4,16 +4,16 @@ Software Requirements Specifications
 ======================================
 Group Information
 
-Group Name:  Simplynovation
+	
+:Group: Simplynovation
 
-Group members: 
-
+:Group_member: 
 Samantha Rusike (201632120140)samrusike@gmail.com 
 			   
 Enock Khondowe (201636110139)enockkhondowe94@yahoo.com 
 
 
-01 May 2018, version 1.0
+:date: 01 May 2018, version 1.0
 
 1.1 Introduction
 ====================
