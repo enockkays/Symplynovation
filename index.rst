@@ -8,9 +8,12 @@ Group Information
 :Group: Simplynovation
 
 :Group_member: 
+
+Enock Khondowe (201636110139)enockkhondowe94@yahoo.com 
+
 Samantha Rusike (201632120140)samrusike@gmail.com 
 			   
-Enock Khondowe (201636110139)enockkhondowe94@yahoo.com 
+
 
 
 :date: 01 May 2018, version 1.0
@@ -346,16 +349,11 @@ xiii.	 controller acts on both model and view; it sends commands to the model to
 15.	References 
 ==================
 
-1.	file:///C:/Users/hp/Downloads/Documents/Intro2RNAseq.pdf
+1.	https://alysivji.github.io/flask-part2-building-a-flask-web-application.htmlhttps://alysivji.github.io/flask-part2-building-a-		flask-web-application.html
 
-2.	https://alysivji.github.io/flask-part2-building-a-flask-web-application.htmlhttps://alysivji.github.io/flask-part2-building-a-flask-web-application.html
+2.	https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 
-3.	https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
-
-4.	https://www.researchgate.net/publication/238106570_The_Role_of_Aesthetics_in_Web_Design 
-
-5.	https://www.researchgate.net/publication/238106570_The_Role_of_Aesthetics_in_Web_Design
-
+3.	https://www.researchgate.net/publication/238106570_The_Role_of_Aesthetics_in_Web_Design 
 
 
 
