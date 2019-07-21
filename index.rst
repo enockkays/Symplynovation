@@ -356,7 +356,7 @@ xiii.	 controller acts on both model and view; it sends commands to the model to
 
 5.	https://www.researchgate.net/publication/238106570_The_Role_of_Aesthetics_in_Web_Design
 
-6.	http://127.0.0.1:5000/profile/Oh%20My%20Genes#  (Simplynovation web application for “Oh My Genes”).
+
 
 
 
